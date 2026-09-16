@@ -1,0 +1,12 @@
+public class sample { 
+  Public static void.main(String[] args) {
+    int a =10;
+    String name="clema";
+    char grade='A';
+    Boolean ispassed= "true";
+    double cash =100;
+    system.out.print(name);
+    system.out.print(a);
+  }
+
+}
